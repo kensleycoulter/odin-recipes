@@ -8,3 +8,6 @@ I will be able to demonstrate the following skills:
 -link pages
 -link images
 -utilize strong, emphasis,and ordered/unordered elements
+
+
+view project here ----> https://kensleycoulter.github.io/odin-recipes/
